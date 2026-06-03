@@ -1,7 +1,5 @@
 # Healthcare-Exploratory-Data-Analysis
 
-# Healthcare Data Cleaning & Preprocessing
-
 ## Overview
 
 This project focuses on cleaning and preprocessing a healthcare dataset containing medical student information. The objective was to improve data quality and prepare the dataset for analysis and machine learning applications.
